@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hospital-master.iml" filepath="$PROJECT_DIR$/.idea/Hospital-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-register/appointment-register.iml" filepath="$PROJECT_DIR$/appointment-register/appointment-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-register/common/common.iml" filepath="$PROJECT_DIR$/appointment-register/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-register/common/common_util/common_util.iml" filepath="$PROJECT_DIR$/appointment-register/common/common_util/common_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-register/model/model.iml" filepath="$PROJECT_DIR$/appointment-register/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-register/service/service.iml" filepath="$PROJECT_DIR$/appointment-register/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-register/service/service_hosp/service_hosp.iml" filepath="$PROJECT_DIR$/appointment-register/service/service_hosp/service_hosp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-register/service/service_user/service_user.iml" filepath="$PROJECT_DIR$/appointment-register/service/service_user/service_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appointment-register/common/service_util/service_util.iml" filepath="$PROJECT_DIR$/appointment-register/common/service_util/service_util.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/appointment-register/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/appointment-register/common/rabbit_util/pom.xml" />
+        <option value="$PROJECT_DIR$/appointment-register/service/service_cmn/pom.xml" />
+        <option value="$PROJECT_DIR$/appointment-register/service/service_msm/pom.xml" />
+        <option value="$PROJECT_DIR$/appointment-register/service/service_order/pom.xml" />
+        <option value="$PROJECT_DIR$/appointment-register/service/service_oss/pom.xml" />
+        <option value="$PROJECT_DIR$/appointment-register/service/service_statistics/pom.xml" />
+        <option value="$PROJECT_DIR$/appointment-register/service/service_task/pom.xml" />
+        <option value="$PROJECT_DIR$/appointment-register/service_client/pom.xml" />
+        <option value="$PROJECT_DIR$/appointment-register/service_gateway/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
